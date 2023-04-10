@@ -1,2 +1,3 @@
 # python_projects
-# ML Regression Algorithms
+# ml regression algorithms
+# ml classification algorithms
