@@ -1,4 +1,4 @@
-## python data analysis projects
-## ml regression algorithms
-## ml classification algorithms
-## ml clustering algorithms
+## Data Cleaning
+## Data Merging
+## Data Grouping and Reshaping
+## Data Preparation and Feature Creation
